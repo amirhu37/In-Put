@@ -1,5 +1,4 @@
 
-```markdown
 # Rust Macros Library
 
 This library provides two macros for enhanced input and output functionalities in Rust.

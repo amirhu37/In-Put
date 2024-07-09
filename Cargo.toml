@@ -5,9 +5,9 @@ edition = "2024"
 authors = ["Nemo <altair.infamous@yahoo.com>"]
 description = "The `input` macro provides a convenient way to read user input from the standard input, optionally with a prompt message, and attempts to parse it into the specified type."
 license = "MIT OR Apache-2.0" # Specify the license
-repository = "https://github.com/amirhu37/rust-have-input"
+repository = "https://github.com/amirhu37/In-Put"
 documentation = "https://docs.rs/in-put"
-homepage = "https://github.com/amirhu37/rust-have-input"
-readme = ".\\README.md" # Path to your README file
+homepage = "https://github.com/amirhu37/In-Put"
+readme = "README.md" # Path to your README file
 
 [dependencies]
