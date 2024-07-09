@@ -89,7 +89,4 @@ extern crate your_crate_name;
 
 Replace `your_crate_name` with the name of your crate.
 
-## License
 
-This project is licensed under the MIT License.
-```

@@ -1,1 +1,1 @@
-C:\Users\AmirHussain\Desktop\rust-have-input-main\In-Put\target\debug\in-put.exe: C:\Users\AmirHussain\Desktop\rust-have-input-main\In-Put\src\lib.rs C:\Users\AmirHussain\Desktop\rust-have-input-main\In-Put\src\main.rs
+C:\Users\AmirHussain\Desktop\In-Put-main\target\debug\in-put.exe: C:\Users\AmirHussain\Desktop\In-Put-main\src\input.rs C:\Users\AmirHussain\Desktop\In-Put-main\src\lib.rs C:\Users\AmirHussain\Desktop\In-Put-main\src\main.rs
