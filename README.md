@@ -93,5 +93,3 @@ Replace `your_crate_name` with the name of your crate.
 
 This project is licensed under the MIT License.
 ```
-
-Save this content into a `README.md` file. This file provides an overview of the library, explains the purpose and usage of each macro, and includes example code snippets.
