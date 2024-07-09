@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["input","print_without_newline"]};
